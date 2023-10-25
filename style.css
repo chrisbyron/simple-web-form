@@ -1,0 +1,5 @@
+input, textarea, label {
+    width: 80%;
+    align-self: center;
+    margin: auto 30px;
+}
